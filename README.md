@@ -16,7 +16,7 @@ Apart from coding, I love:
 ### Research Interests <img width="28" height="28" alt="pie-chart_14993297" src="https://github.com/user-attachments/assets/ff91ff98-eb09-41bc-93c0-69397f9ba1dd" />
 * **Healthcare:** Deeply interested in how data can improve patient outcomes.
 
-### 📂 Coursework Projects
+### Coursework Projects
 Here are the links to my university projects for the Data Science module:
 
 * **[IJC437: Predicting Air Quality in Sheffield Using Weather Data](LINK_TO_YOUR_REPO_HERE)**
