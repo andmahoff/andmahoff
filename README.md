@@ -7,7 +7,7 @@ I am a Data Science student with a passion for uncovering insights in healthcare
 * **Data Science:** Machine Learning (Random Forest, Regression), Time-Series Analysis, Data Visualisation.
 * **Tools:** Git, RStudio, Positron, Microsoft Office.
 
-###<img width="512" height="512" alt="mountain_5705805" src="https://github.com/user-attachments/assets/4b6cf044-3710-4209-9b8c-64e0e42ac62c" />
+###<img width="50" height="50" alt="mountain_5705805" src="https://github.com/user-attachments/assets/4b6cf044-3710-4209-9b8c-64e0e42ac62c" />
  Hobbies
 Apart from coding, I love:
 * **Sports:** Massive Arsenal fan and regular 6-aside football player. I also enjoy surfing and hiking in the Peaks.
