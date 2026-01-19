@@ -2,19 +2,18 @@
 
 I am a Data Science student with a passion for uncovering insights in healthcare and environmental data.
 
-### 🚀 Professional Skills
+### Professional Skills <img width="28" height="28" alt="human_11515564" src="https://github.com/user-attachments/assets/3687db06-b89a-4a85-94ed-a9f3bbccfc55" />
 * **Languages:** R (Tidyverse, ggplot2, caret), SQL, Python.
 * **Data Science:** Machine Learning (Random Forest, Regression), Time-Series Analysis, Data Visualisation.
 * **Tools:** Git, RStudio, Positron, Microsoft Office.
 
-### Hobbies <img width="25" height="25" alt="mountain_5705805" src="https://github.com/user-attachments/assets/4b6cf044-3710-4209-9b8c-64e0e42ac62c" />
+### Hobbies <img width="28" height="28" alt="mountain_5705805" src="https://github.com/user-attachments/assets/4b6cf044-3710-4209-9b8c-64e0e42ac62c" />
 Apart from coding, I love:
-
 * **Sports:** Massive Arsenal fan and regular 6-aside football player. I also enjoy surfing and hiking in the Peaks.
 * **Music:** Regular live music goer. I also playing on the keyboard.
 * **Movies** Big movie fan - regular Letterboxd reviewer and volunteer at my local Film Unit.
 
-### Research Interests
+### Research Interests <img width="28" height="28" alt="pie-chart_14993297" src="https://github.com/user-attachments/assets/ff91ff98-eb09-41bc-93c0-69397f9ba1dd" />
 * **Healthcare:** Deeply interested in how data can improve patient outcomes.
 
 ### 📂 Coursework Projects
