@@ -21,6 +21,9 @@ Here are the links to my university projects for the Data Science module:
 
 * **[IJC437: Predicting Air Quality in Sheffield Using Weather Data](https://github.com/andmahoff/sheffield_air_pollution_analysis)**
     * *An analysis of meteorological drivers of NO2 pollution in Sheffield using Linear Regression and Random Forest models.*
+* **[IJC445: Visualising Air Quality in Sheffield Over Time](https://github.com/andmahoff/sheffield_air_data_visualisation)**
+    * *Visualisation of NO2 pollution patterns in Sheffield according to the time of day, month, and year.*
+
 
 <!--
 **andmahoff/andmahoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
