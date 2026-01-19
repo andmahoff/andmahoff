@@ -19,7 +19,7 @@ Apart from coding, I love:
 ### Coursework Projects
 Here are the links to my university projects for the Data Science module:
 
-* **[IJC437: Predicting Air Quality in Sheffield Using Weather Data](LINK_TO_YOUR_REPO_HERE)**
+* **[IJC437: Predicting Air Quality in Sheffield Using Weather Data](https://github.com/andmahoff/sheffield_air_pollution_analysis)**
     * *An analysis of meteorological drivers of NO2 pollution in Sheffield using Linear Regression and Random Forest models.*
 
 <!--
