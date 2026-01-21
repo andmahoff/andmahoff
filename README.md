@@ -14,10 +14,10 @@ Apart from coding, I love:
 * **Movies** Big movie fan - regular Letterboxd reviewer and volunteer at my local Film Unit.
 
 ### Research Interests <img width="28" height="28" alt="pie-chart_14993297" src="https://github.com/user-attachments/assets/ff91ff98-eb09-41bc-93c0-69397f9ba1dd" />
-* **Healthcare:** Deeply interested in how data can improve patient outcomes.
+* **Healthcare:** Deeply interested in how data and AI can be used in medicine to improve patient outcomes.
 
 ### Coursework Projects
-Here are the links to my university projects for the Data Science module:
+The links to my university projects:
 
 * **[IJC437: Predicting Air Quality in Sheffield Using Weather Data](https://github.com/andmahoff/sheffield_air_pollution_analysis)**
     * *An analysis of meteorological drivers of NO2 pollution in Sheffield using Linear Regression and Random Forest models.*
