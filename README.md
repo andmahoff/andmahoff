@@ -3,7 +3,7 @@
 I am a Data Science student with a passion for uncovering insights in healthcare and environmental data.
 
 ### Professional Skills <img width="28" height="28" alt="human_11515564" src="https://github.com/user-attachments/assets/3687db06-b89a-4a85-94ed-a9f3bbccfc55" />
-* **Languages:** R (Tidyverse, ggplot2, caret), SQL, Python.
+* **Languages:** R (Tidyverse, ggplot2), Python.
 * **Data Science:** Machine Learning (Random Forest, Regression), Time-Series Analysis, Data Visualisation.
 * **Tools:** Git, RStudio, Positron, Microsoft Office.
 
