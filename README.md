@@ -1,41 +1,17 @@
-# Hi there, I'm Andrzej 👋
+# Andrzej Machowski
 
-I am a Data Science student with a passion for uncovering insights in healthcare and environmental data.
+MSc Data Science, University of Sheffield (2026). I work on clinical prediction from multimodal hospital data: structured health records (EHR), 12-lead ECGs and radiology report text.
 
-### Professional Skills <img width="28" height="28" alt="human_11515564" src="https://github.com/user-attachments/assets/3687db06-b89a-4a85-94ed-a9f3bbccfc55" />
-* **Languages:** R (Tidyverse, ggplot2), Python.
-* **Data Science:** Machine Learning (Random Forest, Regression), Time-Series Analysis, Data Visualisation.
-* **Tools:** Git, RStudio, Positron, Microsoft Office.
+## Prognosis after acute pulmonary embolism
 
-### Hobbies <img width="28" height="28" alt="mountain_5705805" src="https://github.com/user-attachments/assets/4b6cf044-3710-4209-9b8c-64e0e42ac62c" />
-Apart from coding, I love:
-* **Sports:** Massive Arsenal fan and regular 6-aside football player. I also enjoy surfing and hiking in the Peaks.
-* **Music:** Regular live music goer. I also playing on the keyboard.
-* **Movies** Big movie fan - regular Letterboxd reviewer and volunteer at my local Film Unit.
+Three linked projects on the same clinical question: who is at risk after a pulmonary embolism (PE), and which data show it. Each repository holds the analysis code, the aggregate results and the figures. No patient-level data are shared.
 
-### Research Interests <img width="28" height="28" alt="pie-chart_14993297" src="https://github.com/user-attachments/assets/ff91ff98-eb09-41bc-93c0-69397f9ba1dd" />
-* **Healthcare:** Deeply interested in how data and AI can be used in medicine to improve patient outcomes.
+| Part | Project | Question | Main finding |
+|---|---|---|---|
+| 1 | [pe-multimodal-prognosis-msc](https://github.com/andmahoff/pe-multimodal-prognosis-msc)<br>MSc dissertation | Does late fusion of EHR, ECG, CTPA report and CXR features improve the prediction of 30-day outcomes? | Fusing EHR, ECG and CTPA predicted 30-day death with an AUROC of 0.8715, above the best single modality and the simplified PESI. |
+| 2 | [pe-fusion-transfer](https://github.com/andmahoff/pe-fusion-transfer)<br>Fusion across hospitals | Which fusion methods still help when models move between Stanford INSPECT and MIMIC-IV? | Across hospitals, no fusion method was significantly better than the EHR alone on the primary contrast. Within one hospital, a block-stratified forest reached a nested cross-validated AUROC of 0.897 for 30-day death. |
+| 3 | [pe-survival-prognosis](https://github.com/andmahoff/pe-survival-prognosis)<br>Time-to-event re-analysis | When is risk concentrated, and how well can death and readmission be predicted up to one year? | Pre-registered: the ECG's signal for death was concentrated in the first 30 days after discharge. Survival super learners reached AUROCs of 0.867 at diagnosis and 0.925 at discharge for 30-day death. |
 
-### Coursework Projects
-The links to my university projects:
+Data: MIMIC-IV with MIMIC-IV-ECG, MIMIC-IV-ED, MIMIC-IV-Note and MIMIC-CXR (PhysioNet), PTB-XL, and INSPECT (Stanford AIMI), each used under its own licence or data use agreement.
 
-* **[IJC437: Predicting Air Quality in Sheffield Using Weather Data](https://github.com/andmahoff/sheffield_air_pollution_analysis)**
-    * *An analysis of meteorological drivers of NO2 pollution in Sheffield using Linear Regression and Random Forest models.*
-* **[IJC445: Visualising Air Quality in Sheffield Over Time](https://github.com/andmahoff/sheffield_air_data_visualisation)**
-    * *Visualisation of NO2 pollution patterns in Sheffield according to the time of day, month, and year.*
-
-
-<!--
-**andmahoff/andmahoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools: Python (scikit-learn, PyTorch), R (survival, glmnet, randomForestSRC, riskRegression), SQL on Google BigQuery, and Slurm jobs on a university HPC cluster.
